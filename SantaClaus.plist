@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Titulo</key>
+		<string>Espero que no te vea...</string>
+		<key>Cuerpo</key>
+		<string>Espero que no te vea Papá Noel, porque lo dejará todo para quedarse contigo y nos quedaremos sin regalos. ¡Feliz Navidad, guapa!</string>
+	</dict>
+	<dict>
+		<key>Titulo</key>
+		<string>Tirar del trineo</string>
+		<key>Cuerpo</key>
+		<string>Enhorabuena, le informamos que ha sido elegido entre tres millones de usuarios para tirar del trineo de Papa Noel. En breve pasaremos para tomarle medidas de los cuernos.</string>
+	</dict>
+	<dict>
+		<key>Titulo</key>
+		<string>Un amigo como tú</string>
+		<key>Cuerpo</key>
+		<string>Si esta noche, un hombre grande y gordo salta por tu ventana, te rapta, te mete en su saco. No te preocupes, le dije a Santa Claus que quería un amigo como tú por Navidad.</string>
+	</dict>
+</array>
+</plist>
